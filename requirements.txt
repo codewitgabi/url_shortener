@@ -3,5 +3,6 @@ dj-database-url==2.0.0
 Django==3.2
 pytz==2023.3
 sqlparse==0.4.4
+psycopg2-binary
 typing_extensions==4.7.1
 whitenoise==6.3.0
